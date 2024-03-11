@@ -3,7 +3,7 @@
 This project was bootstrapped with .
 
 ## 
-https://satvinder9955.github.io/Weather-forecast/Demo
+(https://satvinder9955.github.io/Weather-forecast/)
 ## Available Scripts
 
 In the project directory, you can run:
